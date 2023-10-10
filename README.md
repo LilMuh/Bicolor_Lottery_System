@@ -3,7 +3,7 @@
 # Usage
 Download the file and run the file to play this lottery in the console.
 
-/* RULES:
+*/* RULES:
         There are two colors of balls (Red and Blue) with unique number in the pool. And the customer needs to enter
         a series of number to take a bet of the number that the system draw. The numbers that system draws out are the
         lottery numbers. By comparing the lottery numbers and customers' input, output the prize that customers win.
