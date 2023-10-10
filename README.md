@@ -1,5 +1,7 @@
 # Bicolor_Lottery_System
 
+Get your lottery system! (Two color balls lottery)
+
 # Usage
 Download the file and run the file to play this lottery in the console.
 
